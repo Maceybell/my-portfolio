@@ -268,3 +268,14 @@ section{
     border: none;
     color:rgb(132, 240, 254)
 }
+
+.retro{
+  background-color:rgba(0, 255, 255, 0.131);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+
+  
+
+}
